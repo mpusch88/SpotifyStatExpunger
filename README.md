@@ -1,8 +1,8 @@
-# Readme for Spotify Endsongs Cleanup Program
+Spotify Stat Expunger (endsong JSON History Remover)
 
 ## Description
 
-This program is designed to clean up `endsong.json` files provided by Spotify to remove unwanted listening history. It can be used to remove all songs by a particular artist, or all songs from a particular album, or all songs with a particular title, etc. The only requirement is that the name of the artist, album, or song is unique enough to be not be found in any other song.
+This program is designed to clean up `endsong_*.json` files provided by Spotify to remove unwanted listening history. It can be used to remove all songs by a particular artist, or all songs from a particular album, or all songs with a particular title, etc. The only requirement is that the name of the artist, album, or song is unique enough to be not be found in any other song.
 
 ## Requirements
 
