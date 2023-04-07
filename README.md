@@ -7,6 +7,7 @@ This program is designed to clean up `endsong_*.json` files provided by Spotify 
 ## Requirements
 
 - Python 3.x
+- Endsong JSON files from Spotify
 
 ## Usage
 
