@@ -11,7 +11,7 @@ This program is designed to clean up `endsong_*.json` files provided by Spotify 
 
 ## Usage
 
-1. Run the program: `python spotify_cleanup.py`
+1. Run the program: `python SpotifyStatExpunger.py`
 2. Enter the directory path containing the `endsong_*.json` files when prompted.
 3. Enter the string to search for within the JSON objects (e.g., artist name, song title, or album title).
 
