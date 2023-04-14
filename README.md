@@ -1,4 +1,4 @@
-Spotify Stat Expunger (endsong JSON History Remover)
+# Spotify Stat Expunger (endsong History Remover)
 
 ## Description
 
