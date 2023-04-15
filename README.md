@@ -2,7 +2,7 @@
 
 ## Description
 
-This program is designed to clean up `endsong_*.json` files provided by Spotify to remove unwanted listening history for use in applications such as <h6>stats.fm<h6>. It can be used to remove all songs by a particular artist, or all songs from a particular album, or all songs with a particular title, etc. The only requirement is that the name of the artist, album, or song is unique enough to be not be found in any other song.
+This program is designed to clean up `endsong_*.json` files provided by Spotify to remove unwanted listening history for use in applications such as <b>stats.fm</b>. It can be used to remove all songs by a particular artist, or all songs from a particular album, or all songs with a particular title, etc. The only requirement is that the name of the artist, album, or song is unique enough to be not be found in any other song.
 
 ## Requirements
 
